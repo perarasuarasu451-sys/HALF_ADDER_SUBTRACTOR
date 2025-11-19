@@ -79,6 +79,10 @@ Developed by: PERARASU K RegisterNumber: 25004665
 
 <img width="1321" height="767" alt="image" src="https://github.com/user-attachments/assets/8e9c0aa9-32b6-40eb-bc8e-d172f7bfdba2" />
 
+**Half subtractor**
+<img width="1318" height="767" alt="image" src="https://github.com/user-attachments/assets/ec8ff66a-2a3c-4a73-8c66-5a7a78b5da4a" />
+
+
 **Result:**
 
 Thus the a half adder and half subtractor circuit is designed and its truth table is verified in Quartus using Verilog programming .
